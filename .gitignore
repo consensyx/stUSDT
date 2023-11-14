@@ -1,0 +1,27 @@
+# Dependency directory
+node_modules
+
+# local env variables
+.env
+
+# coverage
+coverage
+coverage.json
+
+# hardhat
+artifacts
+cache
+
+# typechain
+typechain
+
+# typescript
+dist
+
+# VS Code
+.vscode
+
+# idea
+.idea
+.husky
+
